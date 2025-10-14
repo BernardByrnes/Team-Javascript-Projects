@@ -1,0 +1,2 @@
+# Contributing
+Thanks for contributing.
